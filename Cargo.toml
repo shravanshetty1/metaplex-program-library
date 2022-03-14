@@ -1,14 +1,14 @@
 [workspace]
 members=[
-  "auction/program",
+#  "auction/program",
 
-  "gumdrop/program",
-  "metaplex/program",
-  "token-entangler/program",
+#  "gumdrop/program",
+#  "metaplex/program",
+#  "token-entangler/program",
   "token-vault/program",
-  "token-vault/test",
-  "nft-packs/program",
-  "fixed-price-sale/program"
+#  "token-vault/test",
+#  "nft-packs/program",
+#  "fixed-price-sale/program"
 ]
 exclude = [
   "fixed-price-sale/cli",
