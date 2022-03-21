@@ -14,7 +14,7 @@ test-bpf = []
 [dependencies]
 num-derive = "~0.3"
 num-traits = "~0.2"
-solana-program = { git = "https://github.com/solana-labs/solana", branch="master" }
+solana-program = "1.10.3"
 spl-token = { git = "https://github.com/shravanshetty1/solana-program-library", branch="ata-1.0.3", features = [ "no-entrypoint" ] }
 shank="~0.0.0"
 thiserror = "~1.0"
