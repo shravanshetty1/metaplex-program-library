@@ -15,7 +15,7 @@ test-bpf = []
 num-derive = "~0.3"
 num-traits = "~0.2"
 solana-program = { git = "https://github.com/solana-labs/solana", branch="master" }
-spl-token = { git = "https://github.com/shravanshetty1/solana-program-library", branch="master", features = [ "no-entrypoint" ] }
+spl-token = { git = "https://github.com/shravanshetty1/solana-program-library", branch="ata-1.0.3", features = [ "no-entrypoint" ] }
 shank="~0.0.0"
 thiserror = "~1.0"
 borsh = "~0.9.1"

@@ -879,11 +879,10 @@ dependencies = [
 
 [[package]]
 name = "spl-token"
-version = "3.3.0"
-source = "git+https://github.com/shravanshetty1/solana-program-library?branch=master#db4fd0aa95757be486f188cb86bc5ee97dc80cd1"
+version = "3.2.0"
+source = "git+https://github.com/shravanshetty1/solana-program-library?branch=ata-1.0.3#73569e03873f975298b910e9afa16c8548d2141c"
 dependencies = [
  "arrayref",
- "bytemuck",
  "num-derive",
  "num-traits",
  "num_enum",
